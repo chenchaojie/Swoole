@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cf9b4365-935f-438f-bfca-8142e7af222b" name="128.128.6.246" url="http://128.128.6.246">
+        <fileTransfer host="128.128.6.246" port="22" rootFolder="/home/wwwroot/default/Swoole" accessType="SFTP" password="df9bdf98df99df9edf9fdf9c" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="66668990-21fd-4181-acd4-dfcbc8344f7e" name="114.215.171.110" url="http://114.215.171.110">
+        <fileTransfer host="114.215.171.110" port="22" accessType="SFTP" password="dfe5dfe9dffedfc7dfcbdfc7dfc3df98df9adf9bdf9e" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
